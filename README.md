@@ -1,7 +1,7 @@
 # Ruby_Adventure
 2D Unity game, for the purpose of learning C# and the unity engine.
 
-Link to play: 
+Link to play: https://rxm448.github.io/Ruby_Adventure/
 
 Fhe game was made by following the Ruby's Adventure: 2D beginner course on the Unity website. 
 link: https://learn.unity.com/project/ruby-s-2d-rpg?courseId=5c5c1e08edbc2a5465c7ec01
