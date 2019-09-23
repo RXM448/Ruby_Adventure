@@ -11,5 +11,5 @@ Functionalities included which were not covered in the course:
 All HUD elements appart from the health bar;
 Random movement of enemies;
 Enemy attacks;
-All elements of the Quest progression;
+All elements of the quest progression;
 Ammunition tracking.
