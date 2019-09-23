@@ -8,7 +8,8 @@ link: https://learn.unity.com/project/ruby-s-2d-rpg?courseId=5c5c1e08edbc2a5465c
 
 
 Functionalities included which were not covered in the course: 
-All HUD elements appart from the health bar.
-Random movement of enemies
-Enemy attacks 
-All elements of the Quest progression 
+All HUD elements appart from the health bar;
+Random movement of enemies;
+Enemy attacks;
+All elements of the Quest progression;
+Ammunition tracking.
